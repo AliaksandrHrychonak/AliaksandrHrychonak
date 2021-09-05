@@ -1,8 +1,7 @@
 Здравствуйте, меня зовут Саша.
 <br />
 <br />
-<img src="https://user-images.githubusercontent.com/74908494/132123300-372b857d-df15-4652-945d-7dfb079b1e95.png" width="20" height="20" />Связь со мной:
-<a href="mailto:alexgrichenok@icloud.com">alexgrichenok@icloud.com</a>
+Связь со мной:  <a href="mailto:alexgrichenok@icloud.com">alexgrichenok@icloud.com</a>
 <br />
 <br />
 Стек технологий и инструментов:

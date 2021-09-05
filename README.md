@@ -1,4 +1,5 @@
 Здравствуйте, меня зовут Саша.
+Нахожусь на старте карьеры в Веб-разработке.
 <br />
 <br />
 <a href="mailto:alexgrichenok@icloud.com">alexgrichenok@icloud.com</a>

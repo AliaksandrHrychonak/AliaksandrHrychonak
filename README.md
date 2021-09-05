@@ -1,7 +1,7 @@
 Здравствуйте, меня зовут Саша.
 <br />
 <br />
-Связь со мной:  <a href="mailto:alexgrichenok@icloud.com">alexgrichenok@icloud.com</a>
+<a href="mailto:alexgrichenok@icloud.com">alexgrichenok@icloud.com</a>
 <br />
 <br />
 Стек технологий и инструментов:

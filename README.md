@@ -1,6 +1,7 @@
 ### Здравствуйте, меня зовут Саша🖖🏼
 - Нахожусь на старте карьеры в Веб-разработке.
-
+- Хочу изучить познать новые фреймворки.
+- Обожаю активный отдых.
 #### Свяжитесь со мной:
 <a href="mailto: alexgrichenok@icloud.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74908494/132295400-8f573c39-2cae-4bb3-97c2-a96a01241e51.png" alt="" height="40" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100010777031212" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74908494/132295297-09924991-48d8-4378-bb5e-dc6123600b09.png" alt="" height="40" width="40" /></a>

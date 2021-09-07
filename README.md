@@ -2,6 +2,14 @@
 ##### Нахожусь на старте карьеры в Веб-разработке.
 - Хочу научиться создавать 
 
+<h3 align="left">Свяжитесь со мной:</h3>
+<p align="left">
+<a href="https://www.facebook.com/profile.php?id=100010777031212" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aleksandr-grichenok/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.instagram.com/alexgrichenok/?r=nametag" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="https://t.me/alexsander_grichenok" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="" height="30" width="40" /></a>
+</p>
+
 Стек технологий и инструментов:
 <br />
 <br />

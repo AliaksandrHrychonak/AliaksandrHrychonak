@@ -1,10 +1,7 @@
-Здравствуйте, меня зовут Саша🖖🏼
-<br />
-<br />
+#### Здравствуйте, меня зовут Саша🖖🏼
+##### Нахожусь на старте карьеры в Веб-разработке.
 - Хочу научиться создавать 
-✉️ <a href="mailto:alexgrichenok@icloud.com">alexgrichenok@icloud.com</a>
-<br />
-<br />
+
 Стек технологий и инструментов:
 <br />
 <br />
@@ -18,3 +15,8 @@
 <img src="https://user-images.githubusercontent.com/74908494/132122947-5747a5ad-eb60-4d18-9003-357c84fa8af9.png" width="50" />
 <img src="https://user-images.githubusercontent.com/74908494/132122909-65ca745e-9312-4fdf-a6ef-687e59ae2910.png" width="50" />
 <img src="https://user-images.githubusercontent.com/74908494/132122864-02b4dc22-1de3-4bdb-8050-7b96c352e516.png" width="50" />
+<br />
+#### Немного статистики:
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliaksandrHrychonak)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliaksandrHrychonak&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

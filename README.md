@@ -4,11 +4,11 @@
 
 <h3 align="left">Свяжитесь со мной:</h3>
 <p align="left">
-<a href="https://www.facebook.com/profile.php?id=100010777031212" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/aleksandr-grichenok/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.instagram.com/alexgrichenok/?r=nametag" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
-<a href="https://t.me/alexsander_grichenok" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="" height="30" width="40" /></a>
-</p>
+ <a href="mailto: alexgrichenok@icloud.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74908494/132295400-8f573c39-2cae-4bb3-97c2-a96a01241e51.png" alt="" height="40" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100010777031212" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74908494/132295297-09924991-48d8-4378-bb5e-dc6123600b09.png" alt="" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/aleksandr-grichenok/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="40" width="40" /></a>
+<a href="https://www.instagram.com/alexgrichenok/?r=nametag" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74908494/132295300-95d10954-77a2-4e66-96e3-6ee8b7b40624.png" alt="" height="40" width="40" /></a>
+<a href="https://t.me/alexsander_grichenok" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74908494/132295456-20d5c40f-565c-4dd4-8612-0aee05f9a440.png" alt="" height="40" width="40" /></a>
 
 Стек технологий и инструментов:
 <br />
